@@ -5,7 +5,7 @@ E o material de apoio:</br> https://faulkneracademyorg-my.sharepoint.com/persona
 
 ## 1- Setup do ambiente
 
-Antes de tudo deve-se instalar o json-server para simular umaAPI, ara isso executar npm install -g json-server.
+Antes de tudo deve-se instalar o json-server para simular uma API, para isso executar </br>npm install -g json-server.
 
 ## 2 - Executar App
-A aplicação pode ser inicializada com npm start.
+A aplicação pode ser inicializada com </br> npm start.
