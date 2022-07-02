@@ -6,6 +6,7 @@ E o material de apoio:</br> https://faulkneracademyorg-my.sharepoint.com/persona
 ## 1- Setup do ambiente
 
 Antes de tudo deve-se instalar o json-server para simular uma API, para isso executar `npm install -g json-server`.
+Após instalar, navegar até a pasta **Fake API** e executar `json-server --watch db.json`
 
 ## 2 - Executar App
 A aplicação pode ser inicializada com `npm start`.
