@@ -26,6 +26,7 @@ Antes de tudo deve-se instalar o json-server para simular uma API, para isso exe
 
 <img src="/src/assets/dbjson.png" alt="">
 Após instalar, navegar até a pasta Fake API e executar: </br>json-server --watch db.json
+</br></br>
 
 Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.</br>
 <img src="/src/assets/Rest.png" alt="">
