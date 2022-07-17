@@ -1,4 +1,6 @@
 # Tutorial Angular API Request
+Aqui iremos aprender na prática como #consumir uma #API usando o client nativo do Angular.
+É algo bem fácil e ficou muito bem explicado. 
 
 ## :globe_with_meridians: Tecnologias
 
@@ -30,6 +32,7 @@ Após instalar, navegar até a pasta Fake API e executar: </br>json-server --wat
 
 Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.</br>
 <img src="/src/assets/Rest.png" alt="">
+Entenda como fazer um POST, GET, UPDATE, DELETE usando o cliente nativo do consagradíssimo #Angular.
 
 
 
