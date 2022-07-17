@@ -26,13 +26,14 @@ $ npm init
 ## Servidor de desenvolvimento
 Antes de tudo deve-se instalar o json-server para simular uma API, para isso executar: </br>`npm install -g json-server`
 
-<img src="/src/assets/dbjson.png" alt="">
+<img src="/src/assets/dbjson.png" alt=""></br>
 Após instalar, navegar até a pasta Fake API e executar: </br>json-server --watch db.json
 </br></br>
 
+### Execute o APP
 Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.</br>
-<img src="/src/assets/Rest.png" alt="">
-Entenda como fazer um POST, GET, UPDATE, DELETE usando o cliente nativo do consagradíssimo #Angular.
+<img src="/src/assets/Rest.png" alt=""></br>
+Entenda como fazer um POST, GET, UPDATE, DELETE usando o cliente nativo do consagradíssimo #Angular.</br>
 <img src="/src/assets/test.png" alt="">
 
 
