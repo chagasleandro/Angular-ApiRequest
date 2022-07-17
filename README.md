@@ -1,5 +1,5 @@
 # Tutorial Angular API Request
-Aqui iremos aprender na prática como #consumir uma #API usando o client nativo do Angular.
+Aqui iremos aprender na prática como #consumir uma #API em Front-end, usando o client nativo do Angular.
 É algo bem fácil e ficou muito bem explicado. 
 
 ## :globe_with_meridians: Tecnologias
