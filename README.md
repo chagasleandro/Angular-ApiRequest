@@ -4,6 +4,10 @@ Este projeto é um tutorial de como utilizar o client nativo do Framework Angula
 
 ## 1- Setup do ambiente
 
+Antes de tudo deve-se instalar o json-server para simular uma API, para isso executar npm install -g json-server.
+
+Após instalar, navegar até a pasta Fake API e executar json-server --watch db.json
+
 Antes de tudo deve-se instalar o json-server para simular umaAPI, ara isso executar npm install -g json-server.
 
 ## 2 - Executar App
