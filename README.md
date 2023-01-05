@@ -5,8 +5,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/chagasleandro" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://my-portfolio-gray-ten.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://github.com/chagasleandro" target="_blank">Author</a>&#xa0; | &#xa0;
 </p>
 
 <br>
@@ -42,6 +41,13 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 ```bash
 # Clonando esse repositório
 $ git clone https://github.com/chagasleandro/Angular-ApiRequest
+# Acces
+$ cd Angular-ApiRequest
+# Install dependencies
+$ npm
+# Run the project
+$ ng serve -o
+# The server will initialize in the <https://localhost:4200>
 ```
 # Documentação API Request
 <p>Este projeto é um tutorial de como utilizar o client nativo do Framework Angular para requisições HTTP pela aula da Escola Hello World e o material de apoio:</p></br> https://faulkneracademyorg-my.sharepoint.com/personal/f24864_y365_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Ff24864%5Fy365%5Fme%2FDocuments%2FAula%20%2330%2FAula%20%2330%2Epdf&parent=%2Fpersonal%2Ff24864%5Fy365%5Fme%2FDocuments%2FAula%20%2330
