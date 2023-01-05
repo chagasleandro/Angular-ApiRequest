@@ -32,8 +32,8 @@ Após instalar, navegar até a pasta Fake API e executar: </br>json-server --wat
 
 ### Execute o APP
 Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.</br>
-<img src="/src/assets/Rest.png" alt=""></br>
-Entenda como fazer um POST, GET, UPDATE, DELETE usando o cliente nativo do consagradíssimo #Angular.</br>
+<img src="/src/assets/Rest.png" alt=""></br></br>
+Entenda como fazer um POST, GET, UPDATE, DELETE usando o cliente nativo do consagradíssimo #Angular.</br></br>
 <img src="/src/assets/test.png" alt="">
 
 
