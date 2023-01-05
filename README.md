@@ -8,6 +8,10 @@ Aqui iremos aprender na prática como #consumir uma #API em Front-end, usando o 
 
 <img  alt="ANGULAR"
      src="https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="HTML"
+      src="https://img.shields.io/badge/html-%231572B6.svg?style=for-the-badge&logo=html&logoColor=white"/>
+<img alt="SCSS"
+      src="https://img.shields.io/badge/scss-%231572B6.svg?style=for-the-badge&logo=scss&logoColor=white"/>
 <img alt="TypeScrit"
       src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=tpescript&logoColor=white"/>
 
