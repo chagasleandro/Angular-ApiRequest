@@ -31,7 +31,7 @@ $ npm init
 </br></br>
 
 ### Execute o APP
-Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.</br>
+Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.</br></br>
 <img src="/src/assets/Rest.png" alt=""></br>
 <h2>Entenda como fazer um POST, GET, UPDATE, DELETE usando o cliente nativo do consagradíssimo #Angular</h2>.</br>
 <img src="/src/assets/test.png" alt="">
