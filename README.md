@@ -1,7 +1,6 @@
 # Tutorial Angular API Request
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -17,12 +16,12 @@
 </p>
 
 ## :dart: About ##
-Aqui iremos aprender na prática como #consumir uma #API em Front-end, usando o client nativo do Angular.
-É algo bem fácil e ficou muito bem explicado. 
+Here we will learn in practice how to #consume an #API in Front-end, using Angular's native client.
+It's very easy and was very well explained. 
 
 ## :rocket: Technologies ##
 
-<p>Esse projeto foi desenvolvido usando as seguintes tecnologias:</p>
+<p>This project was developed using the following technologies:</p>
 
 <img  alt="ANGULAR"
      src="https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -39,7 +38,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ## :checkered_flag: Starting ##
 ```bash
-# Clonando esse repositório
+# cloning this repository
 $ git clone https://github.com/chagasleandro/Angular-ApiRequest
 # Acces
 $ cd Angular-ApiRequest
@@ -50,12 +49,12 @@ $ ng serve -o
 # The server will initialize in the <https://localhost:4200>
 ```
 # Documentação API Request
-<p>Este projeto é um tutorial de como utilizar o client nativo do Framework Angular para requisições HTTP pela aula da Escola Hello World e o material de apoio:</p></br> https://faulkneracademyorg-my.sharepoint.com/personal/f24864_y365_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Ff24864%5Fy365%5Fme%2FDocuments%2FAula%20%2330%2FAula%20%2330%2Epdf&parent=%2Fpersonal%2Ff24864%5Fy365%5Fme%2FDocuments%2FAula%20%2330
+<p>This project is a tutorial on how to use the native client of the Angular Framework for HTTP requests by the Hello World School class and the support material:</p></br> https://faulkneracademyorg-my.sharepoint.com/personal/f24864_y365_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Ff24864%5Fy365%5Fme%2FDocuments%2FAula%20%2330%2FAula%20%2330%2Epdf&parent=%2Fpersonal%2Ff24864%5Fy365%5Fme%2FDocuments%2FAula%20%2330
 
-# Instalando as dependências
-$ npm init
+# Installing the Dependencies:
+$ npm install
 
-## Servidor de desenvolvimento
+## Development Server:
 <h2>Antes de tudo deve-se instalar o json-server para simular uma API, para isso executar:</h2> </br>`npm install -g json-server`
 
 <img src="/src/assets/dbjson.png" alt=""></br>
@@ -63,9 +62,9 @@ $ npm init
 </br></br>
 
 ### Execute o APP
-Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.</br></br>
+Execute `ng serve` to a dev server. Navegue até `http://localhost:4200/`. The app will automatically reload if you change any of the source files.</br></br>
 <img src="/src/assets/Rest.png" alt=""></br>
-<h2>Entenda como fazer um POST, GET, UPDATE, DELETE usando o cliente nativo do consagradíssimo #Angular</h2>.</br>
+<h2>Understand how to make a POST, GET, UPDATE, DELETE using the consecradíssimo's native client #Angular</h2>.</br>
 <img src="/src/assets/test.png" alt="">
 
 
