@@ -49,7 +49,7 @@ $ ng serve -o
 # The server will initialize in the <https://localhost:4200>
 ```
 # Documentação API Request
-<p>This project is a tutorial on how to use the native client of the Angular Framework for HTTP requests by the Hello World School class and the support material:</p></br> [Api Request](https://www.apirequest.io/)
+<p>This project is a tutorial on how to use the native client of the Angular Framework for HTTP requests by the Hello World School class and the support material:</p></br> [ApiRequest](https://www.apirequest.io/)
 
 # Installing the Dependencies:
 $ npm install
